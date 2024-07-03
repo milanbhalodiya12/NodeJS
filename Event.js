@@ -4,9 +4,9 @@ const EventEmmiter = require('events');
 const event = new EventEmmiter;
 
 // Declaring the event
-event.on("khanShaban", (msg) => {
+event.on("milanBhalodya", (msg) => {
     console.log(msg);
 });
 
 // Calling the Event
-event.emit("khanShaban", "Hello I am a Mca student. As well as a node JS Professional Programmer");
+event.emit("milanBhalodiya", "Hello I am a Mca student. As well as a node JS Professional Programmer");
