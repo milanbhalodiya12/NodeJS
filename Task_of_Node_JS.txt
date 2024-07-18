@@ -1,3 +1,5 @@
 1} Built In functions
-2} Find problem statement(In real life for making application)
+2} Find problem statement(In real life for making application) 
+      Attendance Collector
 3} Gather information about application (how many API are used in that application)
+      Weather Forecast (google.weather)
